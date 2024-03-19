@@ -1,0 +1,16 @@
+D:\Bts\dev\C#\WinForm\TP2WF\TP2WF\bin\Debug\net7.0-windows\TP2WF.exe
+D:\Bts\dev\C#\WinForm\TP2WF\TP2WF\bin\Debug\net7.0-windows\TP2WF.deps.json
+D:\Bts\dev\C#\WinForm\TP2WF\TP2WF\bin\Debug\net7.0-windows\TP2WF.runtimeconfig.json
+D:\Bts\dev\C#\WinForm\TP2WF\TP2WF\bin\Debug\net7.0-windows\TP2WF.dll
+D:\Bts\dev\C#\WinForm\TP2WF\TP2WF\bin\Debug\net7.0-windows\TP2WF.pdb
+D:\Bts\dev\C#\WinForm\TP2WF\TP2WF\obj\Debug\net7.0-windows\TP2WF.Fm_Principal.resources
+D:\Bts\dev\C#\WinForm\TP2WF\TP2WF\obj\Debug\net7.0-windows\TP2WF.csproj.GenerateResource.cache
+D:\Bts\dev\C#\WinForm\TP2WF\TP2WF\obj\Debug\net7.0-windows\TP2WF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bts\dev\C#\WinForm\TP2WF\TP2WF\obj\Debug\net7.0-windows\TP2WF.AssemblyInfoInputs.cache
+D:\Bts\dev\C#\WinForm\TP2WF\TP2WF\obj\Debug\net7.0-windows\TP2WF.AssemblyInfo.cs
+D:\Bts\dev\C#\WinForm\TP2WF\TP2WF\obj\Debug\net7.0-windows\TP2WF.csproj.CoreCompileInputs.cache
+D:\Bts\dev\C#\WinForm\TP2WF\TP2WF\obj\Debug\net7.0-windows\TP2WF.dll
+D:\Bts\dev\C#\WinForm\TP2WF\TP2WF\obj\Debug\net7.0-windows\refint\TP2WF.dll
+D:\Bts\dev\C#\WinForm\TP2WF\TP2WF\obj\Debug\net7.0-windows\TP2WF.pdb
+D:\Bts\dev\C#\WinForm\TP2WF\TP2WF\obj\Debug\net7.0-windows\TP2WF.genruntimeconfig.cache
+D:\Bts\dev\C#\WinForm\TP2WF\TP2WF\obj\Debug\net7.0-windows\ref\TP2WF.dll

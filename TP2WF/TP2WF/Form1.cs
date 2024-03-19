@@ -109,5 +109,22 @@ namespace TP2WF
                 bt_switch2.Visible = false;
             }
         }
+        private void btn_quitter_Click(object sender, EventArgs e)
+        {
+      
+            DialogResult result = MessageBox.Show("Êtes-vous sûr de vouloir quitter l'application ?", "Confirmation", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
+         
+            if (result == DialogResult.Yes)
+            {
+             
+                Application.Exit();
+            }
+            else
+            {
+              
+             
+            }
+        }
     }
 }

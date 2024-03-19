@@ -38,6 +38,7 @@
             bt_ajout2 = new Button();
             bt_switch1 = new Button();
             bt_switch2 = new Button();
+            btn_quitter = new Button();
             SuspendLayout();
             // 
             // lb_liste1
@@ -159,12 +160,23 @@
             bt_switch2.UseVisualStyleBackColor = true;
             bt_switch2.Click += bt_switch2_Click;
             // 
+            // btn_quitter
+            // 
+            btn_quitter.Location = new Point(516, 565);
+            btn_quitter.Name = "btn_quitter";
+            btn_quitter.Size = new Size(94, 29);
+            btn_quitter.TabIndex = 11;
+            btn_quitter.Text = "Quitter";
+            btn_quitter.UseVisualStyleBackColor = true;
+            btn_quitter.Click += btn_quitter_Click;
+            // 
             // Fm_Principal
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Tan;
             ClientSize = new Size(1120, 632);
+            Controls.Add(btn_quitter);
             Controls.Add(bt_switch2);
             Controls.Add(bt_switch1);
             Controls.Add(bt_ajout2);
@@ -194,5 +206,6 @@
         private Button bt_ajout2;
         private Button bt_switch1;
         private Button bt_switch2;
+        private Button btn_quitter;
     }
 }
